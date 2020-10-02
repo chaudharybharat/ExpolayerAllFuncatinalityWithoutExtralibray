@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Oct 02 18:17:38 IST 2020
+0.baseType=DIRECTORY
+0.base=/home/harsh/Documents/Demo/video_player/AdaptiveStreamingExoplayer-master/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

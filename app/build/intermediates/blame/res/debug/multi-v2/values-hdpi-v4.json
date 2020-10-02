@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/harsh/Documents/Demo/video_player/AdaptiveStreamingExoplayer-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/harsh/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/bb779270ac8f18aab448a4adc08a1d11/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

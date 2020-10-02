@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.evgenyneu:js-evaluator-for-android:v4.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-js-evaluator-for-android-v4.0.0.aar/b7d534a41ff98a1a548c7bd869fca7c7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-js-evaluator-for-android-v4.0.0.aar/b7d534a41ff98a1a548c7bd869fca7c7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-js-evaluator-for-android-v4.0.0.aar/b7d534a41ff98a1a548c7bd869fca7c7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.evgenyneu/js-evaluator-for-android/v4.0.0/b73e088e1f014595e5735d7b097f16dbd7ca4246/js-evaluator-for-android-v4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
